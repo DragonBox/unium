@@ -68,7 +68,7 @@ namespace gw.unium
             debug( new {
                 message = condition,
                 type    = type.ToString(),
-                //stack   = stackTrace
+                stack   = stackTrace
             });
         }
     }
